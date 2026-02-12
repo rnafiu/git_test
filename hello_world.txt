@@ -1,1 +1,3 @@
-Adding text to hello world file to commit changes. 
+Adding text to hello world file to commit changes.
+ 
+Testing git commit. 
