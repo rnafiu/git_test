@@ -1,3 +1,6 @@
 Adding text to hello world file to commit changes.
  
  Second update to hello world file. 
+
+ Third update to hello world file. Trying to stay consistent with 
+ coding daily and with getting practice with Git.
